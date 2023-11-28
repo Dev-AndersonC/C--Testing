@@ -1,0 +1,14 @@
+/home/andersonc/C# Testing/Medium_Csharp/bin/Debug/net7.0/Medium_Csharp
+/home/andersonc/C# Testing/Medium_Csharp/bin/Debug/net7.0/Medium_Csharp.deps.json
+/home/andersonc/C# Testing/Medium_Csharp/bin/Debug/net7.0/Medium_Csharp.runtimeconfig.json
+/home/andersonc/C# Testing/Medium_Csharp/bin/Debug/net7.0/Medium_Csharp.dll
+/home/andersonc/C# Testing/Medium_Csharp/bin/Debug/net7.0/Medium_Csharp.pdb
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.AssemblyInfoInputs.cache
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.AssemblyInfo.cs
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.csproj.CoreCompileInputs.cache
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.dll
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/refint/Medium_Csharp.dll
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.pdb
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/Medium_Csharp.genruntimeconfig.cache
+/home/andersonc/C# Testing/Medium_Csharp/obj/Debug/net7.0/ref/Medium_Csharp.dll

@@ -1,0 +1,14 @@
+/home/andersonc/C# Testing/SwitchEnum/bin/Debug/net7.0/SwitchEnum
+/home/andersonc/C# Testing/SwitchEnum/bin/Debug/net7.0/SwitchEnum.deps.json
+/home/andersonc/C# Testing/SwitchEnum/bin/Debug/net7.0/SwitchEnum.runtimeconfig.json
+/home/andersonc/C# Testing/SwitchEnum/bin/Debug/net7.0/SwitchEnum.dll
+/home/andersonc/C# Testing/SwitchEnum/bin/Debug/net7.0/SwitchEnum.pdb
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.GeneratedMSBuildEditorConfig.editorconfig
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.AssemblyInfoInputs.cache
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.AssemblyInfo.cs
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.csproj.CoreCompileInputs.cache
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.dll
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/refint/SwitchEnum.dll
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.pdb
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/SwitchEnum.genruntimeconfig.cache
+/home/andersonc/C# Testing/SwitchEnum/obj/Debug/net7.0/ref/SwitchEnum.dll
